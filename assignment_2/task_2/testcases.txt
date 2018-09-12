@@ -1,0 +1,22 @@
+Received - test
+Expected - answer
+
+Strings don't match: line 1
+Expected: 1 B 2 3 8 C P 9 
+Recieved: 8 P 9 2 3 B C 1
+1 java  STRMATCH  9/23/2017 3:12:28 AM  0.137  
+Strings don't match: line 1
+Expected: B C G 1 4 9 15 P T 20 
+Recieved: P G T 15 9 20 4 C B 1
+2 java  STRMATCH  9/23/2017 3:12:28 AM  0.176  
+Strings don't match: line 1
+Expected: 1 2 3 A B C 4 D 
+Recieved: 2 1 4 D B A 3 C
+3 java  STRMATCH  9/23/2017 3:12:28 AM  0.164  
+Strings don't match: line 1
+Expected: A B C P W 1 2 5 9 X Z 12 14 20 
+Recieved: X Z W P A 1 5 9 2 B C 20 14 12
+4 java  STRMATCH  9/23/2017 3:12:28 AM  0.144  
+Strings don't match: line 1
+Expected: 1 A C 3 4 D R 5 S 
+Recieved: 1 R S 4 3 C A 5 D

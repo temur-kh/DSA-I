@@ -1,0 +1,51 @@
+#1: 
+writing a custom implementation is surprisingly easy the java collections framework provides abstract implementation designed expressly to facilitate custom implementations
+
+ans: 
+<"custom", 2>
+<"implementation", 3>
+
+
+#3. 
+abstract base class for reference object defines the operations common to all reference object because reference object are implemented in close cooperation with the garbage collector this class may not be subclassed directly
+
+ans: 
+<"class", 2>
+<"object", 3>
+<"reference", 3>
+<"the", 2>
+
+
+#0. 
+this class implements a hashtable which maps keys to values any non-null object can be used as a key or as a value
+
+ans: 
+<"as", 2>
+<"key", 2>
+<"value", 2>
+
+
+#2.
+You can write a single generic method declaration that can be called with argument of different type. \nBased on the type of the argument passed to the generic method, the compiler handles each method call appropriately.
+
+ans: 
+<"argument", 2>
+<"can", 2>
+<"generic", 2>
+<"method", 3>
+<"of", 2>
+<"the", 4>
+<"type", 2>
+
+
+#4.
+Early access versions of the future release of the JDK and the JRE are available for testing.\nThis early access release includes the future update and future major release.
+
+ans:
+<"access", 2>
+<"and", 2>
+<"early", 2>
+<"future", 3>
+<"of", 2>
+<"release", 3>
+<"the", 4>
